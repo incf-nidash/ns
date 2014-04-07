@@ -1,0 +1,4 @@
+ns
+==
+
+nidash namespace
